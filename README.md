@@ -96,10 +96,11 @@ The coverage table additionally reports these optional columns when present: `Af
 
 ```
 .
-├── bibliometric_analysis.py   # analysis script
 ├── README.md
 ├── INNODEL_2026_MMTT_PRESENTATION.pdf # presentation slides
-└── output/                    # generated charts, networks and tables (output of analysis script)
+├── Resultados_unicos.xlsx             # our consolidated database
+├── bibliometric_analysis.py           # analysis script
+└── output/                            # output of analysis script
 ```
 
 
